@@ -19,7 +19,7 @@ Here you will find my college projects, personal projects and training courses!
 
 ## 📫 Contact
 <p align="center">
-  <a href="mailto:astridrodriguesribeirol@gmail.com">
+  <a href="mailto:astridrodriguesribeiro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/astrid-rodrigues-ribeiro-524a5226a/">
