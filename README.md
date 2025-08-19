@@ -12,7 +12,7 @@ Here you will find my college projects, personal projects and training courses!
 
 
 ## 🌟 About me
-- 🖥️ I study Computer Science at FACAPE with a focus on back-end. 
+- 🖥️ I'm studying Computer Science at FACAPE, with a focus on back-end development.
 - 📚 Always learning new things.
 
 ---
