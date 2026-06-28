@@ -9,6 +9,7 @@ Here you will find my college projects, personal projects and training courses!
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/Python-A9A9A9?style=for-the-badge&logo=python&logoColor=3776AB" />
 
 ---
 
