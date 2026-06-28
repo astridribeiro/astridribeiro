@@ -10,11 +10,6 @@ Here you will find my college projects, personal projects and training courses!
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-
-## 🌟 About me
-- 🖥️ I'm studying Computer Science at FACAPE, with a focus on back-end development.
-- 📚 Always learning new things.
-
 ---
 
 ## 📫 Contact
